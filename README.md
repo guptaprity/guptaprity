@@ -104,8 +104,8 @@ Additionally do competitive programming in my extra time..
 
 **Insta Story Js**
 
--  
--   [Github link] (https://github.com/guptaprity/Insta-Story) (Public Complete)
+-    [Live link] (https://guptaprity.github.io/InstaDemo/)
+-   [Github link] (https://github.com/guptaprity/InstaDemo) (Public Complete)
 
 **Card Project Js**
 
