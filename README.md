@@ -93,8 +93,9 @@ Additionally do competitive programming in my extra time..
 ## Projects
 
 ** Simon Game**
+[Live link] (https://guptaprity.github.io/SimonGame/)
 
-[Github link] (https://github.com/guptaprity/Simon-Game) (Public Complete)
+[Github link] (https://github.com/guptaprity/SimonGame) (Public Complete)
 
 **Snake Game**
 
