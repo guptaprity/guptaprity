@@ -72,7 +72,19 @@ Additionally do competitive programming in my extra time..
 <br>
 
 ## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=akashdeep023&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akashdeep023)<br><br>
+[![](https://github-profile-trophy.vercel.app/?username=guptaprity&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/guptaprity)<br><br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=guptaprity&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=guptaprity&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaprity&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=guptaprity&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=guptaprityz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ---
@@ -109,3 +121,4 @@ Additionally do competitive programming in my extra time..
 <!-- <img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /> -->
 <!-- <img src="http://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=blue" style="margin:5px" /> -->
 <!-- <img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /> -->
+
