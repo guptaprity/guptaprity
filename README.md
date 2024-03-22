@@ -2,7 +2,6 @@
 <p align="center"> <b>✨ABOUT ME💫</b>
   <br>
   <a style="" href="https://github.com/guptaprity">
-  <img src="https://profile-counter.glitch.me/guptaprity/count.svg" />
   </a>
 </p>
 <a style="" href="https://github.com/guptaprity">
