@@ -1,32 +1,113 @@
-<h1 align="center">Hi 👋, I'm Prity</h1>
-<h3 align="center">Enthusiastic and tech-driven Full Stack Developer .</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+# 👋 Hi, I’m @guptaprity (Prity) 
+<p align="center"> 
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/guptaprity">
+  <img src="https://profile-counter.glitch.me/guptaprity/count.svg" />
+  </a>
+</p>
+<a style="" href="https://github.com/guptaprity">
+<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaprity&label=Profile%20views&color=0e75b6&style=flat" alt="guptaprity" /> </p>
+### 👀 Enthusiastic and tech-driven Full Stack Developer .. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptaprity" alt="guptaprity" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pritysahu310" target="blank"><img src="https://img.shields.io/twitter/follow/pritysahu310?logo=twitter&style=for-the-badge" alt="pritysahu310" /></a> </p>
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [wait for few days for porfolio website](wait for few days for porfolio website)
-
+### 🌱 An eager learner to technology. An open source Enthusiast .
+ Loves to do coding in java. 
+Additionally do competitive programming in my extra time.. 
 - 💬 Ask me about **Full Stack , DSA , JAVA , MERN , REACT**
 
-- 📫 How to reach me **pritygupta310@gmail.com**
+### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pritysahu310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritysahu310" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prity-gupta-mini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prity-gupta-mini/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+##  Let's connect :speech_balloon:
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) --> 
+[<img src="https://img.shields.io/badge/-Prity-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/prity-gupta-mini/)
+[<img src="https://img.shields.io/badge/-pritygupta310@.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:pritygupta310@gmail.com) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptaprity&show_icons=true&locale=en&layout=compact" alt="guptaprity" /></p>
+[<img src="https://img.shields.io/github/followers/guptaprity?label=guptaprity&style=social" height="32" title="Follow me" />](https://github.com/guptaprity) 
+</br></br>
+<h2>💻 Some stats 💻</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptaprity&show_icons=true&locale=en" alt="guptaprity" /></p>
+<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+<a style="" href="https://github.com/guptaprity">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=guptaprity&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+</a>
+<a style="" href="https://github.com/guptaprity">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/>
+</a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaprity&" alt="guptaprity" /></p>
+## Languages and Tools:
+<span> 
+  <a href="https://github.com/guptaprity">
+<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    -->
+<!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>    -->
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>        
+<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>    -->
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/material-ui%20-%23F05033.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/express.js%20-light.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>    
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/tailwind-%2300ADD8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/mysql%20-grey.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/github%20-white.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/netlify-purple.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/vercel-blue.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="http://img.shields.io/badge/-java-yellow?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>    -->
+<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   -->
+<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>    -->
+<!-- <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /> -->
+<!-- <img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /> -->
+<!-- <img src="http://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=blue" style="margin:5px" /> -->
+<!-- <img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /> -->
+    </a>
+</span>
+<br>
+
+## 🏆 GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=akashdeep023&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akashdeep023)<br><br>
+
+
+---
+
+
+## Projects
+
+** Simon Game**
+
+[Github link] (https://github.com/guptaprity/Simon-Game) (Public Complete)
+
+**Snake Game**
+
+-   
+-   [Github link] (https://github.com/guptaprity/Snake-Game) (Public Complete)
+
+**Insta Story Js**
+
+-  
+-   [Github link] (https://github.com/guptaprity/Insta-Story) (Public Complete)
+
+**Card Project Js**
+
+-   
+-   [Github link] (https://github.com/guptaprity/Card_project_js) (Public Complete)
+
+
+---
+
+<a href="https://github.com/guptaprity">
+  <img src="https://imgur.com/rilHVxA.png"/>
+</a>
+<!-- <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /> -->
+<!-- <img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /> -->
+<!-- <img src="http://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=blue" style="margin:5px" /> -->
+<!-- <img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /> -->
