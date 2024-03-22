@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @guptaprity (Prity) 
-<p align="center"> 
-  <b style="color: blue;  ">Visitor count</b>
+<p align="center"> <b>✨ABOUT ME💫</b>
   <br>
   <a style="" href="https://github.com/guptaprity">
   <img src="https://profile-counter.glitch.me/guptaprity/count.svg" />
