@@ -99,8 +99,8 @@ Additionally do competitive programming in my extra time..
 
 **Snake Game**
 
--   
--   [Github link] (https://github.com/guptaprity/Snake-Game) (Public Complete)
+-   [Live Link] (https://guptaprity.github.io/SnakeGame/)
+-   [Github link] (https://github.com/guptaprity/SnakeGame) (Public Complete)
 
 **Insta Story Js**
 
