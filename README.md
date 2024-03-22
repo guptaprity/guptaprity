@@ -109,8 +109,8 @@ Additionally do competitive programming in my extra time..
 
 **Card Project Js**
 
--   live link- (https://guptaprity.github.io/InstaDemo/)
--   [Github link] (https://github.com/guptaprity/InstaDemo) (Public Complete)
+-   live link- (https://guptaprity.github.io/CardTemplate/)
+-   [Github link] (https://github.com/guptaprity/CardTemplate) (Public Complete)
 
 
 ---
