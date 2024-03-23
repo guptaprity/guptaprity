@@ -112,6 +112,10 @@ Additionally do competitive programming in my extra time..
 -   live link- (https://guptaprity.github.io/CardTemplate/)
 -   [Github link] (https://github.com/guptaprity/CardTemplate) (Public Complete)
 
+<b> Spotify-Clone </b>-
+[Live link]
+[Github link] (https://github.com/guptaprity/SpotifyClone)
+
 
 ---
 
