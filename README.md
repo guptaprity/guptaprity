@@ -109,12 +109,14 @@ Additionally do competitive programming in my extra time..
 
 **Card Project Js**
 
--   live link- (https://guptaprity.github.io/CardTemplate/)
+-   live link - (https://guptaprity.github.io/CardTemplate/)
 -   [Github link] (https://github.com/guptaprity/CardTemplate) (Public Complete)
 
-<b> Spotify-Clone </b>-
-[Live link]
-[Github link] (https://github.com/guptaprity/SpotifyClone)
+**Spotify-Clone**
+
+
+-     Live link- (https://github.com/guptaprity/SpotifyClone)
+ -    [Github link] - (https://github.com/guptaprity/SpotifyClone)
 
 
 ---
