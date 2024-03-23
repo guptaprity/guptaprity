@@ -115,7 +115,7 @@ Additionally do competitive programming in my extra time..
 **Spotify-Clone**
 
 
--     Live link- (https://github.com/guptaprity/SpotifyClone)
+-    [ Live link] - (https://github.com/guptaprity/SpotifyClone)
  -    [Github link] - (https://github.com/guptaprity/SpotifyClone)
 
 
