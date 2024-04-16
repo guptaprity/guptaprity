@@ -41,11 +41,11 @@ Additionally do competitive programming in my extra time..
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,c,r&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=java,c&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,,mongodb&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
@@ -53,11 +53,11 @@ Additionally do competitive programming in my extra time..
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Cloud and Deployment</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=azure,aws,vercel&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=azure,aws&theme=dark"></td>
 </tr>
 
 <tr>
