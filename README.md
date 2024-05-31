@@ -5,7 +5,7 @@
   </a>
 </p>
 <a style="" href="https://github.com/guptaprity">
-<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
+<img align="right" alt="img" src="https://img.freepik.com/premium-vector/girl-using-laptop-computer-distance-learning-online_1308-66799.jpg?w=740" width="20%" height="10%" style="margin:0 50px;">
 </a>
 
 ### 👀 Enthusiastic and tech-driven Full Stack Developer .. 
