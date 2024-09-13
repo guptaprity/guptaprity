@@ -113,22 +113,22 @@ Additionally do competitive programming in my extra time..
 <b>** Simon Game**<b>
 [Live link] (https://guptaprity.github.io/SimonGame/)
 
-[Github link] (https://github.com/guptaprity/SimonGame) (Public Complete)
+[Github link] (https://github.com/guptaprity/SimonGame)
 
 **Snake Game**
 
 -   [Live Link] (https://guptaprity.github.io/SnakeGame/)
--   [Github link] (https://github.com/guptaprity/SnakeGame) (Public Complete)
+-   [Github link] (https://github.com/guptaprity/SnakeGame)
 
 **Insta Story Js**
 
 -    [Live link] (https://guptaprity.github.io/InstaDemo/)
--   [Github link] (https://github.com/guptaprity/InstaDemo) (Public Complete)
+-   [Github link] (https://github.com/guptaprity/InstaDemo)
 
 **Card Project Js**
 
 -   live link - (https://guptaprity.github.io/CardTemplate/)
--   [Github link] (https://github.com/guptaprity/CardTemplate) (Public Complete)
+-   [Github link] (https://github.com/guptaprity/CardTemplate)
 
 **Spotify-Clone**
 
