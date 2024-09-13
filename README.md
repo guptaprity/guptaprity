@@ -105,6 +105,11 @@ Additionally do competitive programming in my extra time..
 
 ## Projects
 
+**My Portfolio**
+
+-   [Live Link] (https://prityportfolio.netlify.app/)
+-   [Github link] (https://github.com/guptaprity/My-portfolio) (Public Complete)
+
 <b>** Simon Game**<b>
 [Live link] (https://guptaprity.github.io/SimonGame/)
 
