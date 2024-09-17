@@ -39,7 +39,7 @@ Additionally do competitive programming in my extra time..
 
 ## Languages, Tools and Technologies 🚀 
 <table>
-	<tr>
+<tr>
 	<td><strong>Programming Languages</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=java,c&theme=dark"></td>
 </tr>
