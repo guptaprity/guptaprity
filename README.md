@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Prity Gupta 👋</h1>
-<p align="center">B.Tech CSE Graduate | Java & Frontend Developer | Full Stack Learner</p>
+<p align="center">B.Tech CSE Graduate | Java & Frontend | Full Stack Learner</p>
 
 ---
 
