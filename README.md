@@ -67,10 +67,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=guptaprity&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 
 ---
 
