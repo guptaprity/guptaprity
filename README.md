@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26gslFZx3Bps0YwQk/giphy.gif" width="200"/>
-</p>
+
+
 
 <h1 align="center">Hi, I'm Prity Gupta 👋</h1>
 <p align="center">B.Tech CSE Graduate | Java & Frontend | Full Stack Learner</p>
@@ -41,29 +40,47 @@
 
 ---
 
-## 📂 My Projects
-### 1️⃣ **E-commerce Store**
-- Tech: Python, HTML, CSS, JS  
-- Features: Product catalog, cart, checkout, user authentication  
-- Repo: [`ecommerce-store`](https://github.com/guptaprity/ecommerce-store)
+### 📂 My Projects
+## Major Projects
+
+#  1️⃣ **Airbnb Clone**
+- A full-stack Airbnb Clone built with **React, Node.js, Express, and MongoDB**, featuring property listings, authentication, bookings, and a responsive UI.
+- **Features:**
+  - User Authentication (Signup/Login)
+  - Add, Edit, Delete Listings
+  - Search & Filter Properties by Location and Price
+  - Booking & Reservation System
+  - Image Upload for Properties
+  - Responsive Design for All Devices
+- **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
+- **Live Demo:** [Click Here](https://airbnb-clone-tts5.onrender.com/listings)
+- **Repo:** [`airbnb-clone`](https://github.com/guptaprity/airbnb-clone)
+
+## Mini-Projects
 
 ### 2️⃣ **Simon Game**
 - Tech: JavaScript, HTML, CSS  
 - Memory-based interactive game  
-- Repo: [`simon-game-js`](https://github.com/guptaprity/simon-game-js)
+- Repo: [`simon-game-js`](https://github.com/guptaprity/SimonGame)
+- Live : [`simon-game-live`](https://github.com/guptaprity/SimonGame)
 
 ### 3️⃣ **Snake Game**
 - Tech: JavaScript, HTML, CSS  
 - Classic snake game with score tracking  
-- Repo: [`snake-game-js`](https://github.com/guptaprity/snake-game-js)
+- Repo: [`snake-game-js`](https://github.com/guptaprity/SnakeGame))
+- Link : [`snake-game-live`](https://guptaprity.github.io/SnakeGame/)
 
 ### 4️⃣ **Bank Management System**
 - Tech: Java  
 - Features: Deposit, withdrawal, transfer, loan management  
-- Repo: [`bank-management-java`](https://github.com/guptaprity/bank-management-java)
+- Repo: [`bank-management-java`]()
 
-### 5️⃣ **Other Learning Projects**
-- Example: [`mini-java-projects`](https://github.com/guptaprity/mini-java-projects)
+
+### 5️⃣ **Must Visit Reopsitory **
+-  [`Core-java-Learning`](https://github.com/guptaprity/Naresh-IT_Practice_In-Java)
+-   [`Advance-java-Learning`](https://github.com/guptaprity/Advance-Java)
+-   [`Oracle-Learning`](https://github.com/guptaprity/ORACLE-PRACTICE)
+-   [`Certification`](https://github.com/guptaprity/Certificates)
 
 ---
 
