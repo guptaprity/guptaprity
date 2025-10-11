@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Prity Kumari 👋</h1>
 <p align="center">B.Tech CSE Graduate | Java & Frontend | Full Stack Learner</p>
 
