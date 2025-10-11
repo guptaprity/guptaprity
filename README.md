@@ -1,10 +1,8 @@
 
 
 
-<h1 align="center">Hi, I'm Prity Gupta 👋</h1>
+<h1 align="center">Hi, I'm Prity Kumari 👋</h1>
 <p align="center">B.Tech CSE Graduate | Java & Frontend | Full Stack Learner</p>
-
----
 
 ## 🚀 About Me
 - 🎓 B.Tech Computer Science (2025) – Dav Institute of Engineering & Technology
@@ -12,7 +10,10 @@
 - ⚡ Learning **Full Stack Development, React & Backend Integration**
 - 📫 Contact me: [prity.mini3110@gmail.com](mailto:prity.mini3110@gmail.com)
 
----
+<p align="right">
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/5cb9b9b3-f909-4ffc-b1a3-5f88196e0ee1" />
+</p>
+
 ## 🛠 My Skills
 
 <p align="center">
