@@ -2,7 +2,7 @@
 <p align="center">B.Tech CSE Graduate | Java & Frontend | Full Stack Learner</p>
 
 ## 🚀 About Me
-- 🎓 B.Tech Computer Science (2025) – Dav Institute of Engineering & Technology
+- 🎓 B.Tech Computer Science (2025) – Dav Institute of Engineering & Technology 
 - 💻 Passionate about **Java, Web Development, and Real-World Projects**
 - ⚡ Learning **Full Stack Development, React & Backend Integration**
 - 📫 Contact me: [prity.mini3110@gmail.com](mailto:prity.mini3110@gmail.com)
