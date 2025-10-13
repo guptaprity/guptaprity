@@ -51,40 +51,7 @@ Additionally, I build real-world projects and love exploring new web technologie
 ![](https://nirzak-streak-stats.vercel.app/?user=guptaprity&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaprity&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📂 My Projects
-## Major Projects
 
-#  1️⃣ **Airbnb Clone**
-- A full-stack Airbnb Clone built with **React, Node.js, Express, and MongoDB**, featuring property listings, authentication, bookings, and a responsive UI.
-- **Features:**
-  - User Authentication (Signup/Login)
-  - Add, Edit, Delete Listings
-  - Search & Filter Properties by Location and Price
-  - Booking & Reservation System
-  - Image Upload for Properties
-  - Responsive Design for All Devices
-- **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
-- **Live Demo:** [Click Here](https://airbnb-clone-tts5.onrender.com/listings)
-- **Repo:** [`airbnb-clone`](https://github.com/guptaprity/airbnb-clone)
-
-## Mini-Projects
-
-### 2️⃣ **Simon Game**
-- Tech: JavaScript, HTML, CSS  
-- Memory-based interactive game  
-- Repo: [`simon-game-js`](https://github.com/guptaprity/SimonGame)
-- Live : [`simon-game-live`](https://github.com/guptaprity/SimonGame)
-
-### 3️⃣ **Snake Game**
-- Tech: JavaScript, HTML, CSS  
-- Classic snake game with score tracking  
-- Repo: [`snake-game-js`](https://github.com/guptaprity/SnakeGame))
-- Link : [`snake-game-live`](https://guptaprity.github.io/SnakeGame/)
-
-### 4️⃣ **Bank Management System**
-- Tech: Java  
-- Features: Deposit, withdrawal, transfer, loan management  
-- Repo: [`bank-management-java`]()
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
