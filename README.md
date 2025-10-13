@@ -1,27 +1,29 @@
-<h1 align="center">Hi, I'm Prity Kumari 👋</h1>
-<p align="center">B.Tech CSE Graduate | Java & Frontend | Full Stack Learner</p>
+<h1 align="center">Hi 👋, I'm Prity Kumari (Mini)</h1>
+<h3 align="center">I am a Frontend & Full Stack Developer</h3>
 
-## 🚀 About Me
-- 🎓 B.Tech Computer Science (2025) – Dav Institute of Engineering & Technology 
-- 💻 Passionate about **Java, Web Development, and Real-World Projects**
-- ⚡ Learning **Full Stack Development, React & Backend Integration**
-- 📫 Contact me: [prity.mini3110@gmail.com](mailto:prity.mini3110@gmail.com)
+<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
+## 💫 About Me
 
-<p align="right">
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/5cb9b9b3-f909-4ffc-b1a3-5f88196e0ee1" />
-</p>
+- 🎓 **B.Tech in Computer Science (2025)** – DAV Institute of Engineering & Technology  
+- 💻 Passionate about **Java, Web Development, and Real-World Projects**  
+- 📫 Reach me at **[prity.mini3110@gmail.com](mailto:prity.mini3110@gmail.com)**  
+- 💼 Open to **Software Development Roles**
 
-## 🛠 My Skills
+### 🌱 An eager learner of technology. Open Source Enthusiast.  
+Additionally, I build real-world projects and love exploring new web technologies.  
+### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
-<p align="center">
-  <!-- Programming Languages -->
+- 💬 Ask me about **Java, JavaScript, React, Full Stack, HTML, CSS, PHP**
+
+- <p align="center">
+  <!-- Programming -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 <p align="center">
-  <!-- Web Development -->
+  <!-- Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,13 +32,24 @@
 </p>
 
 <p align="center">
-  <!-- Tools & Database -->
+  <!-- Database & Tools -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mini3110&label=Profile%20views&color=0e75b6&style=flat" alt="Mini3110" /> </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=guptaprity&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=guptaprity&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=guptaprity&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaprity&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📂 My Projects
 ## Major Projects
@@ -73,42 +86,5 @@
 - Features: Deposit, withdrawal, transfer, loan management  
 - Repo: [`bank-management-java`]()
 
-
-### 5️⃣ **Must Visit Reopsitory **
--  [`Core-java-Learning`](https://github.com/guptaprity/Naresh-IT_Practice_In-Java)
--   [`Advance-java-Learning`](https://github.com/guptaprity/Advance-Java)
--   [`Oracle-Learning`](https://github.com/guptaprity/ORACLE-PRACTICE)
--   [`Certification`](https://github.com/guptaprity/Certificates)
-
----
-
-## 📈 GitHub Stats & Visitors
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptaprity&show_icons=true&hide_title=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaprity&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptaprity&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
-
----
-
-## 📬 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/prity-gupta-mini/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:prity.mini3110@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/guptaprity">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-> "Strive for progress, not perfection."
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
