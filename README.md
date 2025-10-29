@@ -44,6 +44,7 @@ Additionally, I build real-world projects and love exploring new web technologie
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=guptaprity&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![OCID25CP](https://github.com/user-attachments/assets/70521f06-b9e3-4cb1-a168-434214ab65eb)
 
 
 # 📊 GitHub Stats:
