@@ -15,7 +15,7 @@ Additionally, I build real-world projects and love exploring new web technologie
 
 - 💬 Ask me about **Java, JavaScript, React, Full Stack, HTML, CSS, PHP**
 
-- <p align="center">
+ <p align="center">
   <!-- Programming -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -43,8 +43,9 @@ Additionally, I build real-world projects and love exploring new web technologie
 <p align="left"> <img style src="https://komarev.com/ghpvc/?username=Mini3110&label=Profile%20views&color=0e75b6&style=flat" alt="Mini3110" /> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=guptaprity&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-![OCID25CP](https://github.com/user-attachments/assets/70521f06-b9e3-4cb1-a168-434214ab65eb)
+![](https://github-profile-trophy.vercel.app/?username=guptaprity&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)  <br>
+
+<img style src ="https://github.com/user-attachments/assets/70521f06-b9e3-4cb1-a168-434214ab65eb" width="30%" height="30%"/>
 
 
 # 📊 GitHub Stats:
