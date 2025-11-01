@@ -40,7 +40,7 @@ Additionally, I build real-world projects and love exploring new web technologie
 </p>
 
 
-<p align="left"> <img style src="https://komarev.com/ghpvc/?username=Mini3110&label=Profile%20views&color=0e75b6&style=flat" alt="Mini3110" style="margin:0 50px;/> </p>
+<p align="left"> <img style src="https://komarev.com/ghpvc/?username=Mini3110&label=Profile%20views&color=0e75b6&style=flat" alt="Mini3110" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=guptaprity&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
