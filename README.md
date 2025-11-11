@@ -46,6 +46,8 @@ Additionally, I build real-world projects and love exploring new web technologie
 ![](https://github-profile-trophy.vercel.app/?username=guptaprity&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)  <br>
 
 <img style src ="https://github.com/user-attachments/assets/70521f06-b9e3-4cb1-a168-434214ab65eb" width="30%" height="30%"/>
+<img style src ="https://github.com/user-attachments/assets/4bb67257-b8c5-4dad-9e86-648d2729b4a1" width="30%" height="30%"/>
+
 
 
 # 📊 GitHub Stats:
