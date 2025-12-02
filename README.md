@@ -37,6 +37,8 @@ Additionally, I build real-world projects and love exploring new web technologie
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+ <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/e2957a66-d41c-44b6-8040-25248db8e63b" />
+
 </p>
 
 
