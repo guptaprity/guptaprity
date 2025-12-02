@@ -13,7 +13,7 @@
 Additionally, I build real-world projects and love exploring new web technologies.  
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
-- 💬 Ask me about **Java, JavaScript, React, Full Stack, HTML, CSS, PHP, Spring, SpringBoot**
+- 💬 Ask me about **Java, JavaScript, React, Full Stack, HTML, CSS, PHP, Spring, SpringBoot, Rest api**
 
  <p align="center">
   <!-- Programming -->
